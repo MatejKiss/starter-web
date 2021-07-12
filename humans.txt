@@ -3,7 +3,7 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+    Matej Kiss matej.kiss@gmail.com @abcd
 
 # THANKS
 
